@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シークレット・シーカー",
+  "base_artist": "ヤマギシコージ",
+  "createdAt": "2025-12-02T16:51:02.209122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シークレット・シーカー (feat. 初音ミク)",
+      "artist": "ヤマギシコージ",
+      "has_synced": false,
+      "path": "select/pl_01_シークレット・シーカー_(feat._初音ミク)_ヤマギシコージ.txt"
+    }
+  ]
+}
